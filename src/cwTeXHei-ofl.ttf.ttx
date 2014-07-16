@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="2.4">
+  <GlyphOrder src="cwTeXHei-ofl.ttf.GlyphOrder.ttx"/>
+  <head src="cwTeXHei-ofl.ttf._h_e_a_d.ttx"/>
+  <hhea src="cwTeXHei-ofl.ttf._h_h_e_a.ttx"/>
+  <maxp src="cwTeXHei-ofl.ttf._m_a_x_p.ttx"/>
+  <OS_2 src="cwTeXHei-ofl.ttf.O_S_2f_2.ttx"/>
+  <hmtx src="cwTeXHei-ofl.ttf._h_m_t_x.ttx"/>
+  <cmap src="cwTeXHei-ofl.ttf._c_m_a_p.ttx"/>
+  <loca src="cwTeXHei-ofl.ttf._l_o_c_a.ttx"/>
+  <glyf src="cwTeXHei-ofl.ttf._g_l_y_f.ttx"/>
+  <name src="cwTeXHei-ofl.ttf._n_a_m_e.ttx"/>
+  <post src="cwTeXHei-ofl.ttf._p_o_s_t.ttx"/>
+  <gasp src="cwTeXHei-ofl.ttf._g_a_s_p.ttx"/>
+  <FFTM src="cwTeXHei-ofl.ttf.F_F_T_M_.ttx"/>
+  <GDEF src="cwTeXHei-ofl.ttf.G_D_E_F_.ttx"/>
+  <GPOS src="cwTeXHei-ofl.ttf.G_P_O_S_.ttx"/>
+  <GSUB src="cwTeXHei-ofl.ttf.G_S_U_B_.ttx"/>
+</ttFont>

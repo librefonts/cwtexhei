@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="2.4">
+  <GlyphOrder src="cwTeXHei.ttf.GlyphOrder.ttx"/>
+  <head src="cwTeXHei.ttf._h_e_a_d.ttx"/>
+  <hhea src="cwTeXHei.ttf._h_h_e_a.ttx"/>
+  <maxp src="cwTeXHei.ttf._m_a_x_p.ttx"/>
+  <OS_2 src="cwTeXHei.ttf.O_S_2f_2.ttx"/>
+  <hmtx src="cwTeXHei.ttf._h_m_t_x.ttx"/>
+  <cmap src="cwTeXHei.ttf._c_m_a_p.ttx"/>
+  <loca src="cwTeXHei.ttf._l_o_c_a.ttx"/>
+  <glyf src="cwTeXHei.ttf._g_l_y_f.ttx"/>
+  <name src="cwTeXHei.ttf._n_a_m_e.ttx"/>
+  <post src="cwTeXHei.ttf._p_o_s_t.ttx"/>
+  <gasp src="cwTeXHei.ttf._g_a_s_p.ttx"/>
+  <FFTM src="cwTeXHei.ttf.F_F_T_M_.ttx"/>
+</ttFont>
