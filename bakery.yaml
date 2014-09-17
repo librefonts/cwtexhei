@@ -1,0 +1,9 @@
+commit: HEAD
+fontcrunch: false
+license_file: ''
+notes: ''
+process_files: [cwTeXHei-zhonly.ttf.ttx, src/cwTeXHei.ttf.ttx, src/cwTeXHei-ofl.ttf.ttx,
+  src/Copse-Regular.ttf.ttx]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"

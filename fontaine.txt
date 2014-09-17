@@ -1,0 +1,148 @@
+Fonts
+  All fonts do NOT have the same character sets.
+  Font:
+    Common name: Copse
+    Sub family: Regular
+    Weight: normal
+    Fixed width: yes
+    Fixed sizes: yes
+    Copyright: "Copyright (c) 2010, Daniel Rhatigan
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.000
+    Vendor: Daniel Rhatigan
+    Designer: Daniel Rhatigan
+    Designer url: http://www.ultrasparky.org
+    Glyph count: 213
+    Character count: 212
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: cwTeXHei
+    Sub family: Medium
+    Weight: bold
+    Fixed width: yes
+    Fixed sizes: yes
+    Copyright: (c) Copyright 2011, Tsong-Min Wu, Tsong-Huey Wu, Edward G.J. Lee and Seventeen.
+    License: (c) Copyright 2011, Tsong-Min Wu, Tsong-Huey Wu, Edward G.J. Lee and Seventeen.
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.17
+    Glyph count: 16997
+    Character count: 15193
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: partial
+          Percent coverage: 92
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 50
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: full
+  Font:
+    Common name: cwTeXHei
+    Sub family: Medium
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: (c) Copyright 2011, Tsong-Min Wu, Tsong-Huey Wu, Edward G.J. Lee and Seventeen.
+    License: (c) Copyright 2011, Tsong-Min Wu, Tsong-Huey Wu, Edward G.J. Lee and Seventeen.
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.17
+    Glyph count: 28249
+    Character count: 26445
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 92
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: partial
+          Percent coverage: 92
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 50
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: full
+  Font:
+    Common name: cwTeXHei
+    Sub family: Medium
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: (c) Copyright 2011, Tsong-Min Wu, Tsong-Huey Wu, Edward G.J. Lee and Seventeen.
+    License: (c) Copyright 2011, Tsong-Min Wu, Tsong-Huey Wu, Edward G.J. Lee and Seventeen.
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.17
+    Glyph count: 16806
+    Character count: 15002
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: fragmentary
+          Percent coverage: 9
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: partial
+          Percent coverage: 92
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 66
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 50
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 76
